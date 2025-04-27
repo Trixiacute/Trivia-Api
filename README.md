@@ -14,6 +14,8 @@ API Trivia dalam Bahasa Indonesia yang dapat diintegrasikan dengan bot Discord a
 - ✅ Siap diintegrasikan dengan Discord Bot
 
 ## 📖 Dokumentasi API
+https://trivia-api-sooty.vercel.app/api-docs/
+https://trivia-api-sooty.vercel.app/index.html
 
 ### Dokumentasi Swagger/OpenAPI
 
