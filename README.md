@@ -147,26 +147,6 @@ collector.on('end', (collected, reason) => {
 
 Anda dapat menambahkan lebih banyak pertanyaan dengan mengedit file `src/data/trivia.json`. Lihat [CONTRIBUTING.md](CONTRIBUTING.md) untuk petunjuk format.
 
-### Struktur Proyek
-
-```
-├── public/               # File statis (frontend demo)
-│   ├── index.html        # Halaman demo HTML
-│   ├── styles.css        # Stylesheet demo
-│   └── script.js         # JavaScript demo
-├── src/
-│   ├── config/           # Konfigurasi aplikasi
-│   │   └── swagger.js    # Konfigurasi Swagger
-│   ├── controllers/      # Logic bisnis
-│   ├── data/             # Data JSON
-│   ├── models/           # Model data
-│   ├── routes/           # Definisi rute API
-│   └── index.js          # Entry point
-├── .env                  # Konfigurasi lingkungan
-├── package.json          # Dependencies
-└── vercel.json           # Konfigurasi Vercel
-```
-
 ## 👥 Kontribusi
 
 Kontribusi sangat diterima! Lihat [CONTRIBUTING.md](CONTRIBUTING.md) untuk petunjuk.
