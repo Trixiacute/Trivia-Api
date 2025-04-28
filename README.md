@@ -179,7 +179,7 @@ client.on('ready', () => {
 client.on('messageCreate', async message => {
   if (message.content === '!trivia') {
     try {
-      const response = await axios.get('https://your-vercel-deployment.vercel.app/api/trivia/random');
+      const response = await axios.get('https://trivia-api-sooty.vercel.app/api/trivia/random');
       const question = response.data.data;
       
       let triviaMessage = `**Pertanyaan:** ${question.pertanyaan}\n\n`;
