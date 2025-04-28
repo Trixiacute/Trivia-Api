@@ -15,7 +15,8 @@ API Trivia dalam Bahasa Indonesia yang dapat diintegrasikan dengan bot Discord a
 - ✅ Status Page untuk memonitor kondisi layanan
 - ✅ Health Metrics untuk memonitor performa sistem
 - ✅ Endpoint khusus untuk Discord Bot dengan format embed
-
+- ✅ Sistem poin dan leaderboard untuk kompetisi trivia
+  
 ## 📖 Dokumentasi API
 
 ### Dokumentasi Interaktif
