@@ -17,7 +17,8 @@ API Trivia dalam Bahasa Indonesia yang dapat diintegrasikan dengan bot Discord a
 - ✅ Endpoint khusus untuk Discord Bot dengan format embed
 - ✅ Sistem poin dan leaderboard untuk kompetisi trivia
   
-## 📖 Dokumentasi API
+## 🍿 TO DO LIST
+- PostGreSQL
 
 ### Dokumentasi Interaktif
 
