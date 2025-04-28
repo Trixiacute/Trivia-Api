@@ -28,13 +28,6 @@ API ini dilengkapi dengan dokumentasi interaktif yang lengkap.
 - Anda dapat melihat semua endpoint tersedia dan contoh penggunaannya
 - Tersedia contoh kode dalam berbagai bahasa pemrograman
 
-### Demo Aplikasi
-
-Tersedia aplikasi demo untuk menguji API secara interaktif:
-
-- Akses demo di root path `/` 
-- Lihat statistik jawaban benar dan salah
-- Pilih pertanyaan berdasarkan kategori
 
 ### Status Page
 
